@@ -21,8 +21,6 @@ A curated portfolio of end-to-end data analytics projects demonstrating **SQL, P
   - [Exploratory Data Analysis](./Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)
 
 
-![Instagram Clone Dashboard]
-
 ---
 
 ### 2) NYC Yellow Taxi Analysis (HiveQL)
@@ -60,43 +58,6 @@ A curated portfolio of end-to-end data analytics projects demonstrating **SQL, P
 
 ---
 
-## Tableau Dashboards (Screenshots )
-
-- Benefits of Working from Home (MakeoverMonday)
-
-  ![Work From Home]
-
-- Municipality Data Analysis
-
-  ![Municipality Dashboard]
-- GROVER Junior Data Analyst Case Study
-  ![Grover Dashboard]
-
-
-- Retail Pricing Analytics
-  ![Retail Pricing]
-- E-commerce Sales Dashboard
-  ![E-commerce Sales]
-  
-- Sales Superstore (Multi-dashboard)
-![KPI Dashboard]
-
-  - Top-Down Dashboard  
-  ![Top Down Dashboard]
-
-  - Q&A Dashboard  
-  ![Q&A Dashboard]
-
-  - Bottom-Up Dashboard  
-   ![Bottom Up Dashboard]
-
-- World Bank CO2 Emissions
-  ![CO2 Dashboard]
-
-- London Bus Safety
-  ![London Bus Safety]
-
----
 
 ## Excel Work (Files in this Repo)
 Download and open in Microsoft Excel:
