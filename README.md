@@ -21,7 +21,7 @@ A curated portfolio of end-to-end data analytics projects demonstrating **SQL, P
   - [Exploratory Data Analysis](./Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)
 
 
-![Instagram Clone Dashboard](./visuals/InstagramCloneDashboard.png)
+![Instagram Clone Dashboard]
 
 ---
 
@@ -64,39 +64,37 @@ A curated portfolio of end-to-end data analytics projects demonstrating **SQL, P
 
 - Benefits of Working from Home (MakeoverMonday)
 
-  ![Work From Home](./visuals/WorkFromHome.png)
+  ![Work From Home]
 
 - Municipality Data Analysis
 
-  ![Municipality Dashboard](./visuals/MunicipalityDataAnalysisDashboard.png)
-
+  ![Municipality Dashboard]
 - GROVER Junior Data Analyst Case Study
-  ![Grover Dashboard](./visuals/GroverDataAnalystDashboard.png)
+  ![Grover Dashboard]
 
 
 - Retail Pricing Analytics
-  ![Retail Pricing](./visuals/RetailPricingAnalytics.png)
-
+  ![Retail Pricing]
 - E-commerce Sales Dashboard
-  ![E-commerce Sales](./visuals/E-commerceRetail.png)
+  ![E-commerce Sales]
   
 - Sales Superstore (Multi-dashboard)
-![KPI Dashboard](./visuals/KPIDashboard.png)
+![KPI Dashboard]
 
   - Top-Down Dashboard  
-  ![Top Down Dashboard](./visuals/TopDownDashboard.png)
+  ![Top Down Dashboard]
 
   - Q&A Dashboard  
-  ![Q&A Dashboard](./visuals/Q&ADashboard.png)
+  ![Q&A Dashboard]
 
   - Bottom-Up Dashboard  
-   ![Bottom Up Dashboard](./visuals/BottomUpDashboard.png)
+   ![Bottom Up Dashboard]
 
 - World Bank CO2 Emissions
-  ![CO2 Dashboard](./visuals/WorldBankCO2Emission.png)
+  ![CO2 Dashboard]
 
 - London Bus Safety
-  ![London Bus Safety](./visuals/LondonBusSafety.png)
+  ![London Bus Safety]
 
 ---
 
